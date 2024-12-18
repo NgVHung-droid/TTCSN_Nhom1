@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module KnapsackProblem {
+	requires junit;
+}
